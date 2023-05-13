@@ -17,7 +17,7 @@
 	} else {
 		$sendstatus = 0;
 		$message = '<div class="alert alert-danger subscription-error" role="alert"><strong>Error:</strong> ' . $api->errorMessage.'</div>';
-	}
+	} 
 
 	$result = array(
 		'sendstatus' => $sendstatus,
