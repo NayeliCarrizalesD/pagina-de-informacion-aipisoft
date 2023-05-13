@@ -1,5 +1,5 @@
 <?php
-
+ 
 	$errors = array();
 
 	// Check if name has been entered

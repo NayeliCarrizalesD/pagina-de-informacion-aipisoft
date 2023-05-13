@@ -1,5 +1,5 @@
 <?php
-
+ 
 $to = 'info@example.com';  // please change this email id
 
 $errors = array();

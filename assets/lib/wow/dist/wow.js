@@ -14,7 +14,7 @@
           custom[key] = value;
         }
       }
-      return custom;
+      return custom; 
     };
 
     Util.prototype.isMobile = function(agent) {

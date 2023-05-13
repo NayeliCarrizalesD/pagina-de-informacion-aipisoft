@@ -20,7 +20,7 @@ function before_and_after_replace(options) {
 	expected = simple.html();
 	
 	simple.trigger('replace.owl.carousel', [ replacement ]);
-	simple.trigger('refresh.owl.carousel');
+	simple.trigger('refresh.owl.carousel'); 
 	
 	equal(simple.html(), expected, 'Inner HTML before and after replace equals.');
 }

@@ -21,7 +21,7 @@ module.exports = function(grunt) {
 			// assemble
 			assemble: {
 				options: {
-					flatten: false,
+					flatten: false, 
 					expand: true,
 					production: false,
 					assets: '<%= app.docs.dest %>/assets',

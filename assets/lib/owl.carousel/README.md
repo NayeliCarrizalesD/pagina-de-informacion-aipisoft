@@ -17,7 +17,7 @@ This package can be installed with:
 
 Or download the [latest release](https://github.com/OwlCarousel2/OwlCarousel2/releases).
 
-### Load
+### Load 
 
 #### Webpack
 

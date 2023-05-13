@@ -18,7 +18,7 @@ Guidelines for bug reports:
   
   <b>Important</b>: If you don't provide a live example, your issue will be closed right away.
 
-Example:
+Example: 
 
 > Short and descriptive example bug report title
 >
